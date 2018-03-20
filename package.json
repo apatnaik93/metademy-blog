@@ -1,0 +1,18 @@
+{
+  "name": "metademy_blog",
+  "version": "1.0.0",
+  "description": "Blog API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Metademy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "jsdom": "^11.6.2",
+    "lodash": "^4.17.5"
+  }
+}
